@@ -1,0 +1,13 @@
+#Python
+
+.cbenv
+.pytest_cache
+__pycache__
+
+#scratch work
+scratch.ipynb
+
+#System files
+
+.DS_Store
+Thumbs.db
