@@ -1,0 +1,1 @@
+All code in this repo is written by a human, except for the scripts in the test folder, which are written by Claude.
